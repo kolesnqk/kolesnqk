@@ -9,3 +9,8 @@ I am Olexandr Kolesnyk, a Python enthusiast with 1.5 years of Python experience,
 *   🌍  I'm based in Kyiv. UA
 *   ✉️  You can contact me at [Sheredscreen@gmail.com](mailto:Sheredscreen@gmail.com)
 *   🧠  I'm learning C++ and Django
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/kolesnqk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kolesnqk" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kolesnqk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kolesnqk" height="30" width="40" /></a>
+</p>
