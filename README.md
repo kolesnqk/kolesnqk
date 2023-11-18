@@ -11,6 +11,6 @@ I am Olexandr Kolesnyk, a enthusiast with 1.5 years of Python experience, boasts
 *   🧠  I'm learning C++ and Django
 <h3 align="left"></h3>
 <p align="left">
-<a href="https://instagram.com/kolesnqk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kolesnqk" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/kolesnqk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kolesnqk" height="30" width="40" /></a>
 </p>
