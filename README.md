@@ -7,7 +7,7 @@ Python Developer
 I am Olexandr Kolesnyk, an enthusiast with 2 years of Python experience, boasts language skills: English (B1), Russian (C2), Ukrainian (Native), and German (A2), and aspiring to gain commercial programming expertise
 
 *   🌍  I'm based in Kyiv. UA
-*   ✉️  You can contact me at [Sheredscreen@gmail.com](mailto:Sheredscreen@gmail.com)
+*   ✉️  You can contact me at [Sheredscreen@gmail.com](mailto:Sheredscreen@gmail.com) or [linkedin](mailto:https://www.linkedin.com/in/oleksandr-kolesnyk-340422298/)
 *   🧠  I'm learning JS and Django
 <h3 align="left"></h3>
 <p align="left">
