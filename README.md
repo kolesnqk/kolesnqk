@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Olexandr Kolesnyk
 =========================================================================================================================================
 
-Python Developer
+Software Developer
 ----------------
 
-I am Olexandr Kolesnyk, an enthusiast with 2 years of Python experience, boasts language skills: English (B2), Russian (C2), Ukrainian (Native), and German (A2), and aspiring to gain commercial programming expertise
+I am Olexandr Kolesnyk, an enthusiast with 2 years of experience, boasts language skills: English (B2), Russian (C2), Ukrainian (Native), and German (A2), and aspiring to gain commercial programming expertise
 
 *   🌍  I'm based in Kyiv. UA
-*   ✉️  You can contact me at Sheredscreen@gmail.com 
-*   🧠  I'm learning JS and Django
+*   ✉️  You can contact me at Sheredscreen@gmail.com
+*   🧠  I'm learning C++ now
 <h3 align="left"></h3>
 <p align="left">
 
