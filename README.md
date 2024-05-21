@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ----------------
 
-I am Olexandr Kolesnyk, an enthusiast with 2 years of experience, boasts language skills: English (B2), Russian (C2), Ukrainian (Native), and German (A2), and aspiring to gain commercial programming expertise
+I am Olexandr Kolesnyk, boasts language skills: English (B2), Russian (C2), Ukrainian (Native), and German (A2), and aspiring to gain commercial programming expertise
 
 *   🌍  I'm based in Kyiv. UA
 
